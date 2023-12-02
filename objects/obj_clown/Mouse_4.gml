@@ -6,4 +6,4 @@ image_angle = angle;
 spd++;
 points++;
 show_debug_message(points);
-show_message("Voce acertou o PALHAÇO !! \n ELE FICAR MAIS RAPIDO");
+show_message("Voc e acertou o PALHAÇO !! \n ELE FICAR MAIS RAPIDO");

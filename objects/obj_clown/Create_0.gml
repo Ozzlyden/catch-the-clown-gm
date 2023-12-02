@@ -14,5 +14,10 @@ dy = -cos(degtorad(angle));
 spd = 5;
 
 points = 0;
+time = 0;
 
+// Variaveis do GM
 image_angle = angle;
+
+// Criacao do timer
+alarm[0] = 60; // se o jogo ta a 60fps = 1 segundo
